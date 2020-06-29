@@ -1,5 +1,5 @@
 # Project
- 1. deb http://ftp.debian.org/debian/ stretch main contrib non-free
+ 1. deb http://ftp.debian.org/debian/ stretch main contrib non-free     __> etc/apt/sources.list
 2. sudo apt-get update
 3. sudo apt-get upgrade 
 4. sudo apt-get install python2.7-dev libssl-dev zlib1g-dev libpcap-dev
