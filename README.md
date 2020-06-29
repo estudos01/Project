@@ -14,3 +14,7 @@
 13. python setup.py clean
 14. python setup.py build
 15. sudo python setup.py install
+
+
+
+https://github.com/scrapy/scrapy/issues/2115
